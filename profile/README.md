@@ -138,9 +138,9 @@ We actively participate in Hacktoberfest! Check out our [education-website](http
 
 ## 📫 Connect With Us
 
-- 🌐 **Website:** [alphaonelabs.org](https://alphaonelabs.org) (coming soon)
 - 📧 **Email:** Contact us through GitHub Issues
 - 🐙 **GitHub:** [@alphaonelabs](https://github.com/alphaonelabs)
+- 💬 **Discussions:** Join conversations in our repositories
 
 ---
 
