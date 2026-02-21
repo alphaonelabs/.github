@@ -148,9 +148,11 @@ We actively participate in Hacktoberfest! Check out our [education-website](http
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Public%20Repositories-7-blue?style=flat-square)
-![Contributors](https://img.shields.io/badge/Contributors-Growing-brightgreen?style=flat-square)
-![Open Source](https://img.shields.io/badge/License-Open%20Source-orange?style=flat-square)
+<!-- STATS_START -->
+
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-0-yellow?style=flat-square&logo=github)](https://github.com/alphaonelabs) [![Open PRs](https://img.shields.io/badge/Open%20PRs-0-blue?style=flat-square&logo=github)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-0-red?style=flat-square&logo=github)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repositories-0-blue?style=flat-square)](https://github.com/orgs/alphaonelabs/repositories)
+
+<!-- STATS_END -->
 
 </div>
 
