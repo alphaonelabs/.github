@@ -22,16 +22,16 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 
 <!-- REPOS_START -->
 
-| Repository | Description | Language | Stars | Forks |
-|---|---|---|---|---|
-| [alphaonelabs-education-website](https://github.com/alphaonelabs/alphaonelabs-education-website) | Alpha One Labs Educational Website | HTML | ⭐ 50 | 🍴 145 |
-| [alphaonelabs-education-app](https://github.com/alphaonelabs/alphaonelabs-education-app) | Alpha One Labs Education App | Dart | ⭐ 0 | 🍴 0 |
-| [alphaonelabs-virtual-lab](https://github.com/alphaonelabs/alphaonelabs-virtual-lab) | Virtual Lab With Science Experiments  | N/A | ⭐ 0 | 🍴 0 |
-| [alphaonelabs-mockups](https://github.com/alphaonelabs/alphaonelabs-mockups) | Generate quick mockups  | JavaScript | ⭐ 0 | 🍴 1 |
-| [alphaonelabs-oss-project-management](https://github.com/alphaonelabs/alphaonelabs-oss-project-management) | Open Source project management interface to Github Issues | Python | ⭐ 0 | 🍴 1 |
-| [alphaonelabs-gsoc](https://github.com/alphaonelabs/alphaonelabs-gsoc) | GSOC info related to Alpha One Labs | HTML | ⭐ 0 | 🍴 2 |
-| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 |
-| [alphaonelabs-virtual-robotics-playground](https://github.com/alphaonelabs/alphaonelabs-virtual-robotics-playground) | Virtual Robotics Playground | N/A | ⭐ 0 | 🍴 0 |
+| Repository | Description | Language | Stars | Forks | Open PRs | Open Issues |
+|---|---|---|---|---|---|---|
+| [alphaonelabs-education-website](https://github.com/alphaonelabs/alphaonelabs-education-website) | Alpha One Labs Educational Website | HTML | ⭐ 50 | 🍴 145 | 🔀 0 | 🐛 0 |
+| [alphaonelabs-education-app](https://github.com/alphaonelabs/alphaonelabs-education-app) | Alpha One Labs Education App | Dart | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 |
+| [alphaonelabs-virtual-lab](https://github.com/alphaonelabs/alphaonelabs-virtual-lab) | Virtual Lab With Science Experiments  | N/A | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 |
+| [alphaonelabs-mockups](https://github.com/alphaonelabs/alphaonelabs-mockups) | Generate quick mockups  | JavaScript | ⭐ 0 | 🍴 1 | 🔀 0 | 🐛 0 |
+| [alphaonelabs-oss-project-management](https://github.com/alphaonelabs/alphaonelabs-oss-project-management) | Open Source project management interface to Github Issues | Python | ⭐ 0 | 🍴 1 | 🔀 0 | 🐛 0 |
+| [alphaonelabs-gsoc](https://github.com/alphaonelabs/alphaonelabs-gsoc) | GSOC info related to Alpha One Labs | HTML | ⭐ 0 | 🍴 2 | 🔀 0 | 🐛 0 |
+| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 |
+| [alphaonelabs-virtual-robotics-playground](https://github.com/alphaonelabs/alphaonelabs-virtual-robotics-playground) | Virtual Robotics Playground | N/A | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 |
 
 <!-- REPOS_END -->
 
