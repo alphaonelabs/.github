@@ -11,9 +11,13 @@ README_PATH = "profile/README.md"
 
 STATS_START = "<!-- STATS_START -->"
 STATS_END = "<!-- STATS_END -->"
+REPOS_START = "<!-- REPOS_START -->"
+REPOS_END = "<!-- REPOS_END -->"
+PROJECTS_BADGE_START = "<!-- PROJECTS_BADGE -->"
+PROJECTS_BADGE_END = "<!-- PROJECTS_BADGE_END -->"
 
 
-def fetch_org_stats():
+def fetch_org_data():
     token = os.environ.get("GITHUB_TOKEN")
     headers = {"Authorization": f"token {token}"} if token else {}
 
@@ -50,6 +54,7 @@ def fetch_org_stats():
         "prs": total_prs,
         "issues": total_issues,
         "repos": len(repos),
+        "repo_list": sorted(repos, key=lambda r: r.get("stargazers_count", 0), reverse=True),
     }
 
 
@@ -83,16 +88,48 @@ def build_stats_block(stats):
     return "\n".join(lines)
 
 
+def build_repos_table(repos):
+    rows = []
+    for repo in repos:
+        name = repo.get("name", "")
+        url = repo.get("html_url", f"https://github.com/{ORG}/{name}")
+        description = (repo.get("description") or "").replace("|", "\\|")
+        language = repo.get("language") or "N/A"
+        stars = repo.get("stargazers_count", 0)
+        forks = repo.get("forks_count", 0)
+        rows.append(
+            f"| [{name}]({url}) | {description} | {language} | ⭐ {stars} | 🍴 {forks} |"
+        )
+
+    lines = [
+        REPOS_START,
+        "",
+        "| Repository | Description | Language | Stars | Forks |",
+        "|---|---|---|---|---|",
+    ] + rows + [
+        "",
+        REPOS_END,
+    ]
+    return "\n".join(lines)
+
+
+def build_projects_badge(repo_count):
+    badge = (
+        f"[![Projects](https://img.shields.io/badge/Projects-{repo_count}"
+        f"-green?style=for-the-badge)](https://github.com/orgs/alphaonelabs/repositories)"
+    )
+    return f"{PROJECTS_BADGE_START}\n{badge}\n{PROJECTS_BADGE_END}"
+
+
 def update_readme(stats):
     with open(README_PATH, "r", encoding="utf-8") as fh:
         content = fh.read()
 
+    # Update stats block
     stats_block = build_stats_block(stats)
-
     if STATS_START in content:
-        # Replace content between existing markers
         pattern = re.escape(STATS_START) + r".*?" + re.escape(STATS_END)
-        new_content = re.sub(pattern, stats_block, content, flags=re.DOTALL)
+        content = re.sub(pattern, stats_block, content, flags=re.DOTALL)
     else:
         # Fallback: replace the legacy static badges block introduced before
         # STATS markers were added.  Can be removed once all environments have
@@ -102,10 +139,22 @@ def update_readme(stats):
             "![Contributors](https://img.shields.io/badge/Contributors-Growing-brightgreen?style=flat-square)\n"
             "![Open Source](https://img.shields.io/badge/License-Open%20Source-orange?style=flat-square)"
         )
-        new_content = content.replace(legacy, stats_block)
+        content = content.replace(legacy, stats_block)
+
+    # Update repositories table
+    repos_block = build_repos_table(stats["repo_list"])
+    if REPOS_START in content:
+        pattern = re.escape(REPOS_START) + r".*?" + re.escape(REPOS_END)
+        content = re.sub(pattern, repos_block, content, flags=re.DOTALL)
+
+    # Update Projects badge in header
+    projects_badge = build_projects_badge(stats["repos"])
+    if PROJECTS_BADGE_START in content:
+        pattern = re.escape(PROJECTS_BADGE_START) + r".*?" + re.escape(PROJECTS_BADGE_END)
+        content = re.sub(pattern, projects_badge, content, flags=re.DOTALL)
 
     with open(README_PATH, "w", encoding="utf-8") as fh:
-        fh.write(new_content)
+        fh.write(content)
 
     print(
         f"README updated — stars: {stats['stars']}, PRs: {stats['prs']}, "
@@ -114,5 +163,5 @@ def update_readme(stats):
 
 
 if __name__ == "__main__":
-    stats = fetch_org_stats()
+    stats = fetch_org_data()
     update_readme(stats)
