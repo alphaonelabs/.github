@@ -46,8 +46,38 @@ def fetch_org_data():
         resp.raise_for_status()
         return resp.json().get("total_count", 0)
 
+    def fetch_counts_by_repo(query, hdrs):
+        """Fetch all search results and return counts grouped by repo name."""
+        counts = {}
+        page = 1
+        while True:
+            url = f"https://api.github.com/search/issues?q={query}&per_page=100&page={page}"
+            resp = requests.get(url, headers=hdrs, timeout=30)
+            resp.raise_for_status()
+            data = resp.json()
+            items = data.get("items", [])
+            if not items:
+                break
+            for item in items:
+                repo_url = item.get("repository_url", "")
+                repo_name = repo_url.split("/")[-1]
+                counts[repo_name] = counts.get(repo_name, 0) + 1
+            # GitHub Search API caps at 1 000 results (10 pages × 100)
+            if len(items) < 100 or page >= 10:
+                break
+            page += 1
+        return counts
+
     total_prs = search_count(f"org:{ORG}+type:pr+state:open", headers)
     total_issues = search_count(f"org:{ORG}+type:issue+state:open", headers)
+
+    pr_counts = fetch_counts_by_repo(f"org:{ORG}+type:pr+state:open", headers)
+    issue_counts = fetch_counts_by_repo(f"org:{ORG}+type:issue+state:open", headers)
+
+    for repo in repos:
+        name = repo.get("name", "")
+        repo["open_pr_count"] = pr_counts.get(name, 0)
+        repo["open_issue_count"] = issue_counts.get(name, 0)
 
     return {
         "stars": total_stars,
@@ -97,15 +127,17 @@ def build_repos_table(repos):
         language = repo.get("language") or "N/A"
         stars = repo.get("stargazers_count", 0)
         forks = repo.get("forks_count", 0)
+        open_prs = repo.get("open_pr_count", 0)
+        open_issues = repo.get("open_issue_count", 0)
         rows.append(
-            f"| [{name}]({url}) | {description} | {language} | ⭐ {stars} | 🍴 {forks} |"
+            f"| [{name}]({url}) | {description} | {language} | ⭐ {stars} | 🍴 {forks} | 🔀 {open_prs} | 🐛 {open_issues} |"
         )
 
     lines = [
         REPOS_START,
         "",
-        "| Repository | Description | Language | Stars | Forks |",
-        "|---|---|---|---|---|",
+        "| Repository | Description | Language | Stars | Forks | Open PRs | Open Issues |",
+        "|---|---|---|---|---|---|---|",
     ] + rows + [
         "",
         REPOS_END,
