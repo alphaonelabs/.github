@@ -69,7 +69,7 @@ We actively participate in Hacktoberfest! Check out our [education-website](http
 
 <!-- STATS_START -->
 
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-50-yellow?style=flat-square&logo=github)](https://github.com/alphaonelabs) [![Open PRs](https://img.shields.io/badge/Open%20PRs-109-blue?style=flat-square&logo=github)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-113-red?style=flat-square&logo=github)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repositories-8-blue?style=flat-square)](https://github.com/orgs/alphaonelabs/repositories)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-55-yellow?style=flat-square&logo=github)](https://github.com/alphaonelabs) [![Open PRs](https://img.shields.io/badge/Open%20PRs-124-blue?style=flat-square&logo=github)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-3-red?style=flat-square&logo=github)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repositories-8-blue?style=flat-square)](https://github.com/orgs/alphaonelabs/repositories)
 
 <!-- STATS_END -->
 
