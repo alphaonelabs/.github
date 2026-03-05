@@ -24,7 +24,7 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 
 | Repository | Description | Language | Stars | Forks | Open PRs | Open Issues |
 |---|---|---|---|---|---|---|
-| [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 55 | 🍴 163 | 🔀 122 | 🐛 0 |
+| [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 55 | 🍴 164 | 🔀 122 | 🐛 0 |
 | [app](https://github.com/alphaonelabs/app) | Alpha One Labs Education App | Dart | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 2 |
 | [virtual-labs](https://github.com/alphaonelabs/virtual-labs) | Virtual Lab With Science Experiments  | N/A | ⭐ 0 | 🍴 2 | 🔀 1 | 🐛 0 |
 | [mockuper](https://github.com/alphaonelabs/mockuper) | Generate quick mockups  | JavaScript | ⭐ 0 | 🍴 1 | 🔀 1 | 🐛 0 |
