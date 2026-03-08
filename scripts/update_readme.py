@@ -79,8 +79,11 @@ def fetch_org_data():
         repo["open_pr_count"] = pr_counts.get(name, 0)
         repo["open_issue_count"] = issue_counts.get(name, 0)
 
+    total_forks = sum(r.get("forks_count", 0) for r in repos)
+
     return {
         "stars": total_stars,
+        "forks": total_forks,
         "prs": total_prs,
         "issues": total_issues,
         "repos": len(repos),
@@ -91,27 +94,32 @@ def fetch_org_data():
 def build_stats_block(stats):
     stars_badge = (
         f"[![Total Stars](https://img.shields.io/badge/Total%20Stars-{stats['stars']}"
-        f"-yellow?style=flat-square&logo=github)](https://github.com/alphaonelabs)"
+        f"-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs)"
+    )
+    forks_badge = (
+        f"[![Total Forks](https://img.shields.io/badge/Total%20Forks-{stats['forks']}"
+        f"-27AE60?style=for-the-badge&logo=github&logoColor=white)]"
+        f"(https://github.com/orgs/alphaonelabs/repositories)"
     )
     prs_badge = (
         f"[![Open PRs](https://img.shields.io/badge/Open%20PRs-{stats['prs']}"
-        f"-blue?style=flat-square&logo=github)]"
+        f"-3498DB?style=for-the-badge&logo=github&logoColor=white)]"
         f"(https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs)"
     )
     issues_badge = (
         f"[![Open Issues](https://img.shields.io/badge/Open%20Issues-{stats['issues']}"
-        f"-red?style=flat-square&logo=github)]"
+        f"-E74C3C?style=for-the-badge&logo=github&logoColor=white)]"
         f"(https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs)"
     )
     repos_badge = (
-        f"[![Public Repos](https://img.shields.io/badge/Public%20Repositories-{stats['repos']}"
-        f"-blue?style=flat-square)]"
+        f"[![Public Repos](https://img.shields.io/badge/Public%20Repos-{stats['repos']}"
+        f"-9B59B6?style=for-the-badge&logo=github&logoColor=white)]"
         f"(https://github.com/orgs/alphaonelabs/repositories)"
     )
     lines = [
         STATS_START,
         "",
-        f"{stars_badge} {prs_badge} {issues_badge} {repos_badge}",
+        f"{stars_badge} {forks_badge} {prs_badge} {issues_badge} {repos_badge}",
         "",
         STATS_END,
     ]
@@ -148,7 +156,7 @@ def build_repos_table(repos):
 def build_projects_badge(repo_count):
     badge = (
         f"[![Projects](https://img.shields.io/badge/Projects-{repo_count}"
-        f"-green?style=for-the-badge)](https://github.com/orgs/alphaonelabs/repositories)"
+        f"-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)"
     )
     return f"{PROJECTS_BADGE_START}\n{badge}\n{PROJECTS_BADGE_END}"
 
@@ -189,7 +197,7 @@ def update_readme(stats):
         fh.write(content)
 
     print(
-        f"README updated — stars: {stats['stars']}, PRs: {stats['prs']}, "
+        f"README updated — stars: {stats['stars']}, forks: {stats['forks']}, PRs: {stats['prs']}, "
         f"issues: {stats['issues']}, repos: {stats['repos']}"
     )
 
