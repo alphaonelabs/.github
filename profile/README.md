@@ -1,12 +1,15 @@
 # Welcome to Alpha One Labs! 🚀
 
 <div align="center">
-  
-[![Organization](https://img.shields.io/badge/Organization-Alpha%20One%20Labs-blue?style=for-the-badge)](https://github.com/alphaonelabs)
+
+[![Organization](https://img.shields.io/badge/Organization-Alpha%20One%20Labs-0077B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs)
 <!-- PROJECTS_BADGE -->
-[![Projects](https://img.shields.io/badge/Projects-9-green?style=for-the-badge)](https://github.com/orgs/alphaonelabs/repositories)
+[![Projects](https://img.shields.io/badge/Projects-9-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
 <!-- PROJECTS_BADGE_END -->
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)](https://github.com/alphaonelabs)
+[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-E74C3C?style=for-the-badge)](https://github.com/alphaonelabs)
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-FF6B35?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com)
+[![EdTech](https://img.shields.io/badge/Focus-EdTech-9B59B6?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/alphaonelabs)
+[![GSOC](https://img.shields.io/badge/Google%20Summer%20of%20Code-Participant-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/alphaonelabs/gsoc)
 
 </div>
 
@@ -15,6 +18,23 @@
 ## 🎯 About Us
 
 Alpha One Labs is dedicated to creating innovative educational technology and open-source tools that empower learners and developers worldwide. We focus on building interactive learning experiences, virtual laboratories, and educational platforms that make science and technology accessible to everyone.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
 
 ---
 
@@ -42,6 +62,15 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 
 We welcome contributions from developers, educators, and enthusiasts from all backgrounds!
 
+<div align="center">
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github)](https://github.com/alphaonelabs)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/alphaonelabs)
+[![Good First Issues](https://img.shields.io/badge/Good%20First%20Issues-Available-blueviolet?style=for-the-badge&logo=github)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs+label%3A%22good+first+issue%22)
+[![Help Wanted](https://img.shields.io/badge/Help%20Wanted-Always-FF6B6B?style=for-the-badge&logo=github)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs+label%3A%22help+wanted%22)
+
+</div>
+
 ### 💡 Ways to Contribute
 
 - 🐛 **Report Bugs:** Found an issue? Let us know!
@@ -58,9 +87,13 @@ We actively participate in Hacktoberfest! Check out our [education-website](http
 
 ## 📫 Connect With Us
 
-- 📧 **Email:** Contact us through GitHub Issues
-- 🐙 **GitHub:** [@alphaonelabs](https://github.com/alphaonelabs)
-- 💬 **Discussions:** Join conversations in our repositories
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-alphaonelabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs)
+[![Discussions](https://img.shields.io/badge/GitHub%20Discussions-Join%20Us-1D76DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/discussions)
+[![Issues](https://img.shields.io/badge/Contact-GitHub%20Issues-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs)
+
+</div>
 
 ---
 
@@ -70,9 +103,22 @@ We actively participate in Hacktoberfest! Check out our [education-website](http
 
 <!-- STATS_START -->
 
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-56-yellow?style=flat-square&logo=github)](https://github.com/alphaonelabs) [![Open PRs](https://img.shields.io/badge/Open%20PRs-132-blue?style=flat-square&logo=github)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-2-red?style=flat-square&logo=github)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repositories-9-blue?style=flat-square)](https://github.com/orgs/alphaonelabs/repositories)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-56-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-177-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-132-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-2-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-9-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
 
 <!-- STATS_END -->
+
+</div>
+
+---
+
+## 📜 License & Activity
+
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
+[![Last Commit](https://img.shields.io/github/last-commit/alphaonelabs/.github?style=for-the-badge&logo=github&label=Last%20Commit&color=2ECC71)](https://github.com/alphaonelabs/.github/commits)
+[![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge&logo=github)](https://github.com/alphaonelabs)
+[![Made with Love](https://img.shields.io/badge/Made%20With-❤️-E74C3C?style=for-the-badge)](https://github.com/alphaonelabs)
 
 </div>
 
