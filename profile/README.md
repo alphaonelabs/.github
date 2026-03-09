@@ -4,7 +4,7 @@
 
 [![Organization](https://img.shields.io/badge/Organization-Alpha%20One%20Labs-0077B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs)
 <!-- PROJECTS_BADGE -->
-[![Projects](https://img.shields.io/badge/Projects-9-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
+[![Projects](https://img.shields.io/badge/Projects-16-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
 <!-- PROJECTS_BADGE_END -->
 [![Open Source](https://img.shields.io/badge/Open%20Source-❤️-E74C3C?style=for-the-badge)](https://github.com/alphaonelabs)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-FF6B35?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com)
@@ -44,7 +44,7 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 
 | Repository | Description | Language | Stars | Forks | Open PRs | Open Issues |
 |---|---|---|---|---|---|---|
-| [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 56 | 🍴 166 | 🔀 125 | 🐛 0 |
+| [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 56 | 🍴 165 | 🔀 127 | 🐛 0 |
 | [app](https://github.com/alphaonelabs/app) | Alpha One Labs Education App | Dart | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 2 |
 | [virtual-labs](https://github.com/alphaonelabs/virtual-labs) | Virtual Lab With Science Experiments  | N/A | ⭐ 0 | 🍴 2 | 🔀 1 | 🐛 0 |
 | [mockuper](https://github.com/alphaonelabs/mockuper) | Generate quick mockups  | JavaScript | ⭐ 0 | 🍴 1 | 🔀 2 | 🐛 0 |
@@ -53,6 +53,13 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 | [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 |
 | [botlab](https://github.com/alphaonelabs/botlab) | Virtual Robotics Playground | HTML | ⭐ 0 | 🍴 2 | 🔀 0 | 🐛 0 |
 | [design-system](https://github.com/alphaonelabs/design-system) | Alpha One Labs design system | N/A | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 |
+| [coderabbit](https://github.com/alphaonelabs/coderabbit) |  | N/A | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 |
+| [learnpilot](https://github.com/alphaonelabs/learnpilot) | AI-powered personalized learning lab that adapts to each learner in real time. Combines natural language processing, adaptive curricula, intelligent tutoring, and progress tracking to create a dynamic educational experience with interactive explanations, guided practice, and continuous feedback. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 |
+| [syntharia](https://github.com/alphaonelabs/syntharia) | A creative AI studio where users collaborate with models to generate art, music, and poetry. Provides tools for image generation, music composition, style transfer, and iterative refinement. Designed as an interactive environment for exploring generative creativity and building multimedia AI-assisted projects. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 |
+| [earthmind](https://github.com/alphaonelabs/earthmind) | AI-powered platform for monitoring environmental data from multiple sources. Uses machine learning to analyze trends, detect anomalies, and identify potential ecological risks. Includes real-time alerts, visual dashboards, and geospatial insights to help researchers, communities, and organizations respond to environmental changes. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 |
+| [quantalab](https://github.com/alphaonelabs/quantalab) | Interactive virtual laboratory where students can explore physics, chemistry, and biology experiments in simulation. Guided by an AI mentor that explains concepts, answers questions, and suggests experiments. Designed to make scientific exploration accessible, safe, and engaging through hands-on digital experimentation. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 |
+| [scholarai](https://github.com/alphaonelabs/scholarai) | AI-powered research assistant designed to help students and scientists navigate large volumes of academic literature. Supports paper discovery, summarization, citation exploration, and question answering across research papers. Helps organize knowledge, identify trends, and accelerate literature review workflows. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 |
+| [voxbridge](https://github.com/alphaonelabs/voxbridge) | Toolkit of AI-powered tools designed to improve accessibility and communication. Includes features like sign-to-speech translation, speech-to-sign generation, visual scene description, and real-time captioning. Aims to reduce communication barriers and create more inclusive digital and physical experiences. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 |
 
 <!-- REPOS_END -->
 
@@ -103,7 +110,7 @@ We actively participate in Hacktoberfest! Check out our [education-website](http
 
 <!-- STATS_START -->
 
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-56-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-177-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-132-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-2-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-9-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-56-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-176-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-140-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-2-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-16-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
 
 <!-- STATS_END -->
 
