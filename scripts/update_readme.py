@@ -68,6 +68,23 @@ def fetch_org_data():
             page += 1
         return counts
 
+    def fetch_commit_count(repo_name, hdrs):
+        """Return the total commit count for *repo_name* using the Link-header trick."""
+        url = f"https://api.github.com/repos/{ORG}/{repo_name}/commits?per_page=1"
+        resp = requests.get(url, headers=hdrs, timeout=30)
+        if resp.status_code == 409:
+            # Empty / uninitialized repository
+            return 0
+        if resp.status_code != 200:
+            return 0
+        link = resp.headers.get("Link", "")
+        if link:
+            match = re.search(r'page=(\d+)>; rel="last"', link)
+            if match:
+                return int(match.group(1))
+        # No Link header → only one commit (per_page=1 with no pagination)
+        return 1
+
     total_prs = search_count(f"org:{ORG}+type:pr+state:open", headers)
     total_issues = search_count(f"org:{ORG}+type:issue+state:open", headers)
 
@@ -78,6 +95,7 @@ def fetch_org_data():
         name = repo.get("name", "")
         repo["open_pr_count"] = pr_counts.get(name, 0)
         repo["open_issue_count"] = issue_counts.get(name, 0)
+        repo["commit_count"] = fetch_commit_count(name, headers)
 
     total_forks = sum(r.get("forks_count", 0) for r in repos)
 
@@ -137,15 +155,16 @@ def build_repos_table(repos):
         forks = repo.get("forks_count", 0)
         open_prs = repo.get("open_pr_count", 0)
         open_issues = repo.get("open_issue_count", 0)
+        commits = repo.get("commit_count", 0)
         rows.append(
-            f"| [{name}]({url}) | {description} | {language} | ⭐ {stars} | 🍴 {forks} | 🔀 {open_prs} | 🐛 {open_issues} |"
+            f"| [{name}]({url}) | {description} | {language} | ⭐ {stars} | 🍴 {forks} | 🔀 {open_prs} | 🐛 {open_issues} | 💾 {commits} |"
         )
 
     lines = [
         REPOS_START,
         "",
-        "| Repository | Description | Language | Stars | Forks | Open PRs | Open Issues |",
-        "|---|---|---|---|---|---|---|",
+        "| Repository | Description | Language | Stars | Forks | Open PRs | Open Issues | Commits |",
+        "|---|---|---|---|---|---|---|---|",
     ] + rows + [
         "",
         REPOS_END,
