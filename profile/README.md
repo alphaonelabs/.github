@@ -45,21 +45,21 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 | Repository | Description | Language | Stars | Forks | Open PRs | Open Issues | Commits |
 |---|---|---|---|---|---|---|---|
 | [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 56 | 🍴 169 | 🔀 137 | 🐛 0 | 💾 964 |
-| [app](https://github.com/alphaonelabs/app) | Alpha One Labs Education App | Dart | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 2 | 💾 6 |
-| [virtual-labs](https://github.com/alphaonelabs/virtual-labs) | Virtual Lab With Science Experiments  | N/A | ⭐ 0 | 🍴 2 | 🔀 1 | 🐛 0 | 💾 1 |
 | [mockuper](https://github.com/alphaonelabs/mockuper) | Generate quick mockups  | JavaScript | ⭐ 0 | 🍴 1 | 🔀 2 | 🐛 0 | 💾 56 |
-| [pmoss](https://github.com/alphaonelabs/pmoss) | Open Source project management interface to Github Issues | Python | ⭐ 0 | 🍴 1 | 🔀 0 | 🐛 0 | 💾 11 |
-| [gsoc](https://github.com/alphaonelabs/gsoc) | GSOC info related to Alpha One Labs | HTML | ⭐ 0 | 🍴 5 | 🔀 1 | 🐛 0 | 💾 43 |
 | [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 45 |
+| [gsoc](https://github.com/alphaonelabs/gsoc) | GSOC info related to Alpha One Labs | HTML | ⭐ 0 | 🍴 5 | 🔀 1 | 🐛 0 | 💾 43 |
 | [botlab](https://github.com/alphaonelabs/botlab) | Virtual Robotics Playground | HTML | ⭐ 0 | 🍴 2 | 🔀 2 | 🐛 0 | 💾 28 |
-| [design-system](https://github.com/alphaonelabs/design-system) | Alpha One Labs design system | N/A | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 1 |
+| [pmoss](https://github.com/alphaonelabs/pmoss) | Open Source project management interface to Github Issues | Python | ⭐ 0 | 🍴 1 | 🔀 0 | 🐛 0 | 💾 11 |
+| [app](https://github.com/alphaonelabs/app) | Alpha One Labs Education App | Dart | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 2 | 💾 6 |
+| [voxbridge](https://github.com/alphaonelabs/voxbridge) | Toolkit of AI-powered tools designed to improve accessibility and communication. Includes features like sign-to-speech translation, speech-to-sign generation, visual scene description, and real-time captioning. Aims to reduce communication barriers and create more inclusive digital and physical experiences. | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 5 |
 | [coderabbit](https://github.com/alphaonelabs/coderabbit) |  | N/A | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 4 |
-| [learnpilot](https://github.com/alphaonelabs/learnpilot) | AI-powered personalized learning lab that adapts to each learner in real time. Combines natural language processing, adaptive curricula, intelligent tutoring, and progress tracking to create a dynamic educational experience with interactive explanations, guided practice, and continuous feedback. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 | 💾 1 |
-| [syntharia](https://github.com/alphaonelabs/syntharia) | A creative AI studio where users collaborate with models to generate art, music, and poetry. Provides tools for image generation, music composition, style transfer, and iterative refinement. Designed as an interactive environment for exploring generative creativity and building multimedia AI-assisted projects. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 | 💾 1 |
 | [earthmind](https://github.com/alphaonelabs/earthmind) | AI-powered platform for monitoring environmental data from multiple sources. Uses machine learning to analyze trends, detect anomalies, and identify potential ecological risks. Includes real-time alerts, visual dashboards, and geospatial insights to help researchers, communities, and organizations respond to environmental changes. | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 4 |
 | [quantalab](https://github.com/alphaonelabs/quantalab) | Interactive virtual laboratory where students can explore physics, chemistry, and biology experiments in simulation. Guided by an AI mentor that explains concepts, answers questions, and suggests experiments. Designed to make scientific exploration accessible, safe, and engaging through hands-on digital experimentation. | JavaScript | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 4 |
+| [virtual-labs](https://github.com/alphaonelabs/virtual-labs) | Virtual Lab With Science Experiments  | N/A | ⭐ 0 | 🍴 2 | 🔀 1 | 🐛 0 | 💾 1 |
+| [design-system](https://github.com/alphaonelabs/design-system) | Alpha One Labs design system | N/A | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 1 |
+| [learnpilot](https://github.com/alphaonelabs/learnpilot) | AI-powered personalized learning lab that adapts to each learner in real time. Combines natural language processing, adaptive curricula, intelligent tutoring, and progress tracking to create a dynamic educational experience with interactive explanations, guided practice, and continuous feedback. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 | 💾 1 |
+| [syntharia](https://github.com/alphaonelabs/syntharia) | A creative AI studio where users collaborate with models to generate art, music, and poetry. Provides tools for image generation, music composition, style transfer, and iterative refinement. Designed as an interactive environment for exploring generative creativity and building multimedia AI-assisted projects. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 | 💾 1 |
 | [scholarai](https://github.com/alphaonelabs/scholarai) | AI-powered research assistant designed to help students and scientists navigate large volumes of academic literature. Supports paper discovery, summarization, citation exploration, and question answering across research papers. Helps organize knowledge, identify trends, and accelerate literature review workflows. | N/A | ⭐ 0 | 🍴 1 | 🔀 3 | 🐛 0 | 💾 1 |
-| [voxbridge](https://github.com/alphaonelabs/voxbridge) | Toolkit of AI-powered tools designed to improve accessibility and communication. Includes features like sign-to-speech translation, speech-to-sign generation, visual scene description, and real-time captioning. Aims to reduce communication barriers and create more inclusive digital and physical experiences. | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 5 |
 
 <!-- REPOS_END -->
 

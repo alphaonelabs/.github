@@ -105,7 +105,7 @@ def fetch_org_data():
         "prs": total_prs,
         "issues": total_issues,
         "repos": len(repos),
-        "repo_list": sorted(repos, key=lambda r: r.get("stargazers_count", 0), reverse=True),
+        "repo_list": sorted(repos, key=lambda r: r.get("commit_count", 0), reverse=True),
     }
 
 
