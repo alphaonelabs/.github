@@ -44,17 +44,17 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 
 | Repository | Description | Language | Stars | Forks | Open PRs | Open Issues | Commits |
 |---|---|---|---|---|---|---|---|
-| [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 56 | 🍴 169 | 🔀 137 | 🐛 0 | 💾 964 |
+| [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 57 | 🍴 170 | 🔀 140 | 🐛 0 | 💾 964 |
+| [learnpilot](https://github.com/alphaonelabs/learnpilot) | AI-powered personalized learning lab that adapts to each learner in real time. Combines natural language processing, adaptive curricula, intelligent tutoring, and progress tracking to create a dynamic educational experience with interactive explanations, guided practice, and continuous feedback. | N/A | ⭐ 1 | 🍴 1 | 🔀 1 | 🐛 0 | 💾 1 |
 | [app](https://github.com/alphaonelabs/app) | Alpha One Labs Education App | Dart | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 2 | 💾 6 |
 | [virtual-labs](https://github.com/alphaonelabs/virtual-labs) | Virtual Lab With Science Experiments  | N/A | ⭐ 0 | 🍴 2 | 🔀 1 | 🐛 0 | 💾 1 |
 | [mockuper](https://github.com/alphaonelabs/mockuper) | Generate quick mockups  | JavaScript | ⭐ 0 | 🍴 1 | 🔀 2 | 🐛 0 | 💾 56 |
 | [pmoss](https://github.com/alphaonelabs/pmoss) | Open Source project management interface to Github Issues | Python | ⭐ 0 | 🍴 1 | 🔀 0 | 🐛 0 | 💾 11 |
-| [gsoc](https://github.com/alphaonelabs/gsoc) | GSOC info related to Alpha One Labs | HTML | ⭐ 0 | 🍴 5 | 🔀 1 | 🐛 0 | 💾 43 |
-| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 | 💾 46 |
+| [gsoc](https://github.com/alphaonelabs/gsoc) | GSOC info related to Alpha One Labs | HTML | ⭐ 0 | 🍴 6 | 🔀 3 | 🐛 0 | 💾 43 |
+| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 | 💾 47 |
 | [botlab](https://github.com/alphaonelabs/botlab) | Virtual Robotics Playground | HTML | ⭐ 0 | 🍴 2 | 🔀 1 | 🐛 0 | 💾 31 |
 | [design-system](https://github.com/alphaonelabs/design-system) | Alpha One Labs design system | N/A | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 1 |
 | [coderabbit](https://github.com/alphaonelabs/coderabbit) |  | N/A | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 4 |
-| [learnpilot](https://github.com/alphaonelabs/learnpilot) | AI-powered personalized learning lab that adapts to each learner in real time. Combines natural language processing, adaptive curricula, intelligent tutoring, and progress tracking to create a dynamic educational experience with interactive explanations, guided practice, and continuous feedback. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 | 💾 1 |
 | [syntharia](https://github.com/alphaonelabs/syntharia) | A creative AI studio where users collaborate with models to generate art, music, and poetry. Provides tools for image generation, music composition, style transfer, and iterative refinement. Designed as an interactive environment for exploring generative creativity and building multimedia AI-assisted projects. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 | 💾 1 |
 | [earthmind](https://github.com/alphaonelabs/earthmind) | AI-powered platform for monitoring environmental data from multiple sources. Uses machine learning to analyze trends, detect anomalies, and identify potential ecological risks. Includes real-time alerts, visual dashboards, and geospatial insights to help researchers, communities, and organizations respond to environmental changes. | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 4 |
 | [quantalab](https://github.com/alphaonelabs/quantalab) | Interactive virtual laboratory where students can explore physics, chemistry, and biology experiments in simulation. Guided by an AI mentor that explains concepts, answers questions, and suggests experiments. Designed to make scientific exploration accessible, safe, and engaging through hands-on digital experimentation. | JavaScript | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 4 |
@@ -111,7 +111,7 @@ We actively participate in Hacktoberfest! Check out our [education-website](http
 
 <!-- STATS_START -->
 
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-56-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-181-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-150-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-2-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-17-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-58-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-184-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-155-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-2-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-17-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
 
 <!-- STATS_END -->
 
