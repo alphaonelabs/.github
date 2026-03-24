@@ -45,11 +45,11 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 | Repository | Description | Language | Stars | Forks | Open PRs | Open Issues | Commits |
 |---|---|---|---|---|---|---|---|
 | [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 62 | 🍴 174 | 🔀 153 | 🐛 0 | 💾 964 |
-| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 59 |
+| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 60 |
 | [mockuper](https://github.com/alphaonelabs/mockuper) | Generate quick mockups  | JavaScript | ⭐ 0 | 🍴 1 | 🔀 2 | 🐛 0 | 💾 56 |
 | [gsoc](https://github.com/alphaonelabs/gsoc) | GSOC info related to Alpha One Labs | HTML | ⭐ 0 | 🍴 6 | 🔀 1 | 🐛 1 | 💾 46 |
 | [botlab](https://github.com/alphaonelabs/botlab) | Virtual Robotics Playground | HTML | ⭐ 0 | 🍴 2 | 🔀 1 | 🐛 0 | 💾 31 |
-| [learn](https://github.com/alphaonelabs/learn) | new website fully encrypted database | HTML | ⭐ 1 | 🍴 4 | 🔀 2 | 🐛 2 | 💾 23 |
+| [learn](https://github.com/alphaonelabs/learn) | new website fully encrypted database | HTML | ⭐ 1 | 🍴 5 | 🔀 4 | 🐛 2 | 💾 23 |
 | [pmoss](https://github.com/alphaonelabs/pmoss) | Open Source project management interface to Github Issues | Python | ⭐ 0 | 🍴 1 | 🔀 0 | 🐛 0 | 💾 11 |
 | [app](https://github.com/alphaonelabs/app) | Alpha One Labs Education App | Dart | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 2 | 💾 6 |
 | [voxbridge](https://github.com/alphaonelabs/voxbridge) | Toolkit of AI-powered tools designed to improve accessibility and communication. Includes features like sign-to-speech translation, speech-to-sign generation, visual scene description, and real-time captioning. Aims to reduce communication barriers and create more inclusive digital and physical experiences. | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 5 |
@@ -111,7 +111,7 @@ We actively participate in Hacktoberfest! Check out our [education-website](http
 
 <!-- STATS_START -->
 
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-64-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-193-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-167-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-5-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-17-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-64-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-194-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-169-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-5-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-17-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
 
 <!-- STATS_END -->
 
