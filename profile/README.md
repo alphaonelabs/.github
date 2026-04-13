@@ -45,9 +45,9 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 | Repository | Description | Language | Stars | Forks | Open PRs | Open Issues | Commits |
 |---|---|---|---|---|---|---|---|
 | [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 65 | 🍴 179 | 🔀 147 | 🐛 0 | 💾 966 |
-| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 79 |
+| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 80 |
+| [learn](https://github.com/alphaonelabs/learn) | new website fully encrypted database | Python | ⭐ 1 | 🍴 13 | 🔀 19 | 🐛 4 | 💾 57 |
 | [mockuper](https://github.com/alphaonelabs/mockuper) | Generate quick mockups  | JavaScript | ⭐ 0 | 🍴 1 | 🔀 2 | 🐛 0 | 💾 56 |
-| [learn](https://github.com/alphaonelabs/learn) | new website fully encrypted database | HTML | ⭐ 1 | 🍴 13 | 🔀 19 | 🐛 4 | 💾 47 |
 | [gsoc](https://github.com/alphaonelabs/gsoc) | GSOC info related to Alpha One Labs | HTML | ⭐ 0 | 🍴 6 | 🔀 1 | 🐛 1 | 💾 46 |
 | [botlab](https://github.com/alphaonelabs/botlab) | Virtual Robotics Playground | HTML | ⭐ 0 | 🍴 2 | 🔀 3 | 🐛 0 | 💾 31 |
 | [pmoss](https://github.com/alphaonelabs/pmoss) | Open Source project management interface to Github Issues | Python | ⭐ 0 | 🍴 1 | 🔀 0 | 🐛 0 | 💾 11 |
