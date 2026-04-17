@@ -44,8 +44,8 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 
 | Repository | Description | Language | Stars | Forks | Open PRs | Open Issues | Commits |
 |---|---|---|---|---|---|---|---|
-| [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 65 | 🍴 178 | 🔀 147 | 🐛 0 | 💾 966 |
-| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 83 |
+| [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 65 | 🍴 180 | 🔀 147 | 🐛 0 | 💾 966 |
+| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 84 |
 | [learn](https://github.com/alphaonelabs/learn) | new website fully encrypted database | Python | ⭐ 1 | 🍴 14 | 🔀 20 | 🐛 4 | 💾 72 |
 | [mockuper](https://github.com/alphaonelabs/mockuper) | Generate quick mockups  | JavaScript | ⭐ 0 | 🍴 1 | 🔀 2 | 🐛 0 | 💾 56 |
 | [gsoc](https://github.com/alphaonelabs/gsoc) | GSOC info related to Alpha One Labs | HTML | ⭐ 0 | 🍴 6 | 🔀 1 | 🐛 1 | 💾 46 |
@@ -111,7 +111,7 @@ We actively participate in Hacktoberfest! Check out our [education-website](http
 
 <!-- STATS_START -->
 
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-67-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-208-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-180-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-7-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-17-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-67-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-210-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-180-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-7-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-17-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
 
 <!-- STATS_END -->
 
