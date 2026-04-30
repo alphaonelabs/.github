@@ -44,11 +44,11 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 
 | Repository | Description | Language | Stars | Forks | Open PRs | Open Issues | Commits |
 |---|---|---|---|---|---|---|---|
-| [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 66 | 🍴 176 | 🔀 128 | 🐛 0 | 💾 966 |
-| [learn](https://github.com/alphaonelabs/learn) | new website fully encrypted database | HTML | ⭐ 2 | 🍴 15 | 🔀 18 | 🐛 4 | 💾 117 |
-| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 96 |
-| [mockuper](https://github.com/alphaonelabs/mockuper) | Generate quick mockups  | JavaScript | ⭐ 0 | 🍴 1 | 🔀 1 | 🐛 0 | 💾 56 |
-| [gsoc](https://github.com/alphaonelabs/gsoc) | GSOC info related to Alpha One Labs | HTML | ⭐ 0 | 🍴 6 | 🔀 0 | 🐛 1 | 💾 46 |
+| [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 66 | 🍴 176 | 🔀 146 | 🐛 0 | 💾 966 |
+| [learn](https://github.com/alphaonelabs/learn) | new website fully encrypted database | HTML | ⭐ 2 | 🍴 15 | 🔀 21 | 🐛 4 | 💾 117 |
+| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 97 |
+| [mockuper](https://github.com/alphaonelabs/mockuper) | Generate quick mockups  | JavaScript | ⭐ 0 | 🍴 1 | 🔀 2 | 🐛 0 | 💾 56 |
+| [gsoc](https://github.com/alphaonelabs/gsoc) | GSOC info related to Alpha One Labs | HTML | ⭐ 0 | 🍴 6 | 🔀 1 | 🐛 1 | 💾 46 |
 | [botlab](https://github.com/alphaonelabs/botlab) | Virtual Robotics Playground | HTML | ⭐ 0 | 🍴 2 | 🔀 2 | 🐛 0 | 💾 34 |
 | [pmoss](https://github.com/alphaonelabs/pmoss) | Open Source project management interface to Github Issues | Python | ⭐ 0 | 🍴 1 | 🔀 0 | 🐛 0 | 💾 11 |
 | [coderabbit](https://github.com/alphaonelabs/coderabbit) |  | N/A | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 7 |
@@ -58,7 +58,7 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 | [quantalab](https://github.com/alphaonelabs/quantalab) | Interactive virtual laboratory where students can explore physics, chemistry, and biology experiments in simulation. Guided by an AI mentor that explains concepts, answers questions, and suggests experiments. Designed to make scientific exploration accessible, safe, and engaging through hands-on digital experimentation. | JavaScript | ⭐ 0 | 🍴 1 | 🔀 0 | 🐛 0 | 💾 4 |
 | [virtual-labs](https://github.com/alphaonelabs/virtual-labs) | Virtual Lab With Science Experiments  | N/A | ⭐ 0 | 🍴 2 | 🔀 1 | 🐛 0 | 💾 1 |
 | [design-system](https://github.com/alphaonelabs/design-system) | Alpha One Labs design system | N/A | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 1 |
-| [learnpilot](https://github.com/alphaonelabs/learnpilot) | AI-powered personalized learning lab that adapts to each learner in real time. Combines natural language processing, adaptive curricula, intelligent tutoring, and progress tracking to create a dynamic educational experience with interactive explanations, guided practice, and continuous feedback. | N/A | ⭐ 1 | 🍴 1 | 🔀 1 | 🐛 0 | 💾 1 |
+| [learnpilot](https://github.com/alphaonelabs/learnpilot) | AI-powered personalized learning lab that adapts to each learner in real time. Combines natural language processing, adaptive curricula, intelligent tutoring, and progress tracking to create a dynamic educational experience with interactive explanations, guided practice, and continuous feedback. | N/A | ⭐ 1 | 🍴 1 | 🔀 2 | 🐛 0 | 💾 1 |
 | [syntharia](https://github.com/alphaonelabs/syntharia) | A creative AI studio where users collaborate with models to generate art, music, and poetry. Provides tools for image generation, music composition, style transfer, and iterative refinement. Designed as an interactive environment for exploring generative creativity and building multimedia AI-assisted projects. | N/A | ⭐ 0 | 🍴 0 | 🔀 1 | 🐛 0 | 💾 1 |
 | [scholarai](https://github.com/alphaonelabs/scholarai) | AI-powered research assistant designed to help students and scientists navigate large volumes of academic literature. Supports paper discovery, summarization, citation exploration, and question answering across research papers. Helps organize knowledge, identify trends, and accelerate literature review workflows. | N/A | ⭐ 0 | 🍴 1 | 🔀 3 | 🐛 0 | 💾 1 |
 
@@ -111,7 +111,7 @@ We actively participate in Hacktoberfest! Check out our [education-website](http
 
 <!-- STATS_START -->
 
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-69-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-207-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-156-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-7-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-17-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-69-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-207-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-180-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-7-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-17-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
 
 <!-- STATS_END -->
 
