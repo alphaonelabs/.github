@@ -46,7 +46,7 @@ Alpha One Labs is dedicated to creating innovative educational technology and op
 |---|---|---|---|---|---|---|---|
 | [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 65 | 🍴 175 | 🔀 145 | 🐛 0 | 💾 966 |
 | [learn](https://github.com/alphaonelabs/learn) | new website fully encrypted database | HTML | ⭐ 2 | 🍴 18 | 🔀 23 | 🐛 7 | 💾 136 |
-| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 132 |
+| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 133 |
 | [mockuper](https://github.com/alphaonelabs/mockuper) | Generate quick mockups  | JavaScript | ⭐ 0 | 🍴 1 | 🔀 2 | 🐛 0 | 💾 56 |
 | [gsoc](https://github.com/alphaonelabs/gsoc) | GSOC info related to Alpha One Labs | HTML | ⭐ 0 | 🍴 7 | 🔀 1 | 🐛 1 | 💾 46 |
 | [botlab](https://github.com/alphaonelabs/botlab) | Virtual Robotics Playground | HTML | ⭐ 0 | 🍴 2 | 🔀 2 | 🐛 0 | 💾 34 |
