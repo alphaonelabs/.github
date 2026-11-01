@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/banner-dark.svg?v=2">
-  <img alt="Alpha One Labs: open-source education for everyone" src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/banner-light.svg?v=2" width="100%">
-</picture>
+<img alt="Alpha One Labs: open-source education for everyone" src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/banner.webp?v=3" width="100%">
 
 <br>
 
