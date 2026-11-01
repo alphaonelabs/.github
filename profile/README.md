@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/banner-dark.svg">
-  <img alt="Alpha One Labs: open-source education for everyone" src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/banner-dark.svg?v=2">
+  <img alt="Alpha One Labs: open-source education for everyone" src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/banner-light.svg?v=2" width="100%">
 </picture>
 
 <br>
@@ -32,13 +32,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://learn.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/learn.jpg" alt="Learn screenshot" width="100%"></a>
+      <a href="https://learn.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/learn.jpg?v=2" alt="Learn screenshot" width="100%"></a>
       <h3><a href="https://learn.alphaonelabs.com">Learn</a></h3>
       Our learning platform: browse activities, join live virtual classrooms, take quizzes and earn certificates.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/learn"><code>learn/</code></a> · <a href="https://learn.alphaonelabs.com">learn.alphaonelabs.com</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://gsoc.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/gsoc.jpg" alt="GSoC screenshot" width="100%"></a>
+      <a href="https://gsoc.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/gsoc.jpg?v=2" alt="GSoC screenshot" width="100%"></a>
       <h3><a href="https://gsoc.alphaonelabs.com">GSoC</a></h3>
       Google Summer of Code at Alpha One Labs: how to start, the contributor leaderboard and the 2027 project ideas.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/gsoc"><code>gsoc/</code></a> · <a href="https://gsoc.alphaonelabs.com">gsoc.alphaonelabs.com</a></sub>
@@ -46,13 +46,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://quantalab.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/quantalab.jpg" alt="QuantaLab screenshot" width="100%"></a>
+      <a href="https://quantalab.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/quantalab.jpg?v=2" alt="QuantaLab screenshot" width="100%"></a>
       <h3><a href="https://quantalab.alphaonelabs.com">QuantaLab</a></h3>
       A virtual science lab for physics, chemistry and biology experiments, with an AI mentor at your side.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/quantalab"><code>quantalab/</code></a> · <a href="https://quantalab.alphaonelabs.com">quantalab.alphaonelabs.com</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://botlab.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/botlab.jpg" alt="BotLab screenshot" width="100%"></a>
+      <a href="https://botlab.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/botlab.jpg?v=2" alt="BotLab screenshot" width="100%"></a>
       <h3><a href="https://botlab.alphaonelabs.com">BotLab</a></h3>
       A robotics simulation playground: build, configure and test robots with real-time physics, in 2D and 3D.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/botlab"><code>botlab/</code></a> · <a href="https://botlab.alphaonelabs.com">botlab.alphaonelabs.com</a></sub>
@@ -60,13 +60,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://voxbridge.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/voxbridge.jpg" alt="VoxBridge screenshot" width="100%"></a>
+      <a href="https://voxbridge.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/voxbridge.jpg?v=2" alt="VoxBridge screenshot" width="100%"></a>
       <h3><a href="https://voxbridge.alphaonelabs.com">VoxBridge</a></h3>
       AI accessibility tools: live captioning, speech-to-sign, sign-to-speech and scene description.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/voxbridge"><code>voxbridge/</code></a> · <a href="https://voxbridge.alphaonelabs.com">voxbridge.alphaonelabs.com</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://mockuper.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/mockuper.jpg" alt="Mockuper screenshot" width="100%"></a>
+      <a href="https://mockuper.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/mockuper.jpg?v=2" alt="Mockuper screenshot" width="100%"></a>
       <h3><a href="https://mockuper.alphaonelabs.com">Mockuper</a></h3>
       A wireframe studio for quick, clean mockups, with pages, components and versions.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/mockuper"><code>mockuper/</code></a> · <a href="https://mockuper.alphaonelabs.com">mockuper.alphaonelabs.com</a></sub>
@@ -205,7 +205,7 @@ cd website/learn        # or any project folder
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/logo.svg" alt="Alpha One Labs logo" width="56">
+  <img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/logo.svg?v=2" alt="Alpha One Labs logo" width="56">
   <br>
   <sub>Made with ❤️ by the Alpha One Labs community · MIT licensed · ⭐ <a href="https://github.com/alphaonelabs/website">Star the monorepo</a> to follow along</sub>
 </div>
