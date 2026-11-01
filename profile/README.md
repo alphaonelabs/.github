@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Alpha One Labs: open-source education for everyone" src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/banner.webp?v=3" width="100%">
+<img alt="Alpha One Labs: open-source education for everyone" src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/banner.webp?v=4" width="100%">
 
 <br>
 
