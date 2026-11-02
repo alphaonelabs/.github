@@ -29,43 +29,57 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://learn.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/learn.jpg?v=2" alt="Learn screenshot" width="100%"></a>
+      <a href="https://learn.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/learn.jpg?v=2" alt="Learn" width="100%"></a>
       <h3><a href="https://learn.alphaonelabs.com">Learn</a></h3>
       Our learning platform: browse activities, join live virtual classrooms, take quizzes and earn certificates.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/learn"><code>learn/</code></a> · <a href="https://learn.alphaonelabs.com">learn.alphaonelabs.com</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://gsoc.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/gsoc.jpg?v=2" alt="GSoC screenshot" width="100%"></a>
-      <h3><a href="https://gsoc.alphaonelabs.com">GSoC</a></h3>
-      Google Summer of Code at Alpha One Labs: how to start, the contributor leaderboard and the 2027 project ideas.<br>
+      <a href="https://gsoc.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/gsoc.jpg?v=2" alt="GSoC 2027" width="100%"></a>
+      <h3><a href="https://gsoc.alphaonelabs.com">GSoC 2027</a></h3>
+      Google Summer of Code with us: ten project ideas, how to start, and the season leaderboards.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/gsoc"><code>gsoc/</code></a> · <a href="https://gsoc.alphaonelabs.com">gsoc.alphaonelabs.com</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://quantalab.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/quantalab.jpg?v=2" alt="QuantaLab screenshot" width="100%"></a>
-      <h3><a href="https://quantalab.alphaonelabs.com">QuantaLab</a></h3>
-      A virtual science lab for physics, chemistry and biology experiments, with an AI mentor at your side.<br>
-      <sub><a href="https://github.com/alphaonelabs/website/tree/main/quantalab"><code>quantalab/</code></a> · <a href="https://quantalab.alphaonelabs.com">quantalab.alphaonelabs.com</a></sub>
+      <a href="https://virtual.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/virtual.gif?v=2" alt="Virtual World" width="100%"></a>
+      <h3><a href="https://virtual.alphaonelabs.com">Virtual World</a></h3>
+      A 3D world built with three.js. Walk up to a portal and step into a live classroom. Explore as a guest, no sign-in needed.<br>
+      <sub><a href="https://github.com/alphaonelabs/website/tree/main/virtual"><code>virtual/</code></a> · <a href="https://virtual.alphaonelabs.com">virtual.alphaonelabs.com</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://botlab.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/botlab.jpg?v=2" alt="BotLab screenshot" width="100%"></a>
-      <h3><a href="https://botlab.alphaonelabs.com">BotLab</a></h3>
-      A robotics simulation playground: build, configure and test robots with real-time physics, in 2D and 3D.<br>
-      <sub><a href="https://github.com/alphaonelabs/website/tree/main/botlab"><code>botlab/</code></a> · <a href="https://botlab.alphaonelabs.com">botlab.alphaonelabs.com</a></sub>
+      <a href="https://quantalab.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/quantalab.jpg?v=2" alt="QuantaLab" width="100%"></a>
+      <h3><a href="https://quantalab.alphaonelabs.com">QuantaLab</a></h3>
+      A virtual science lab for physics, chemistry and biology, with an AI mentor that explains what you see.<br>
+      <sub><a href="https://github.com/alphaonelabs/website/tree/main/quantalab"><code>quantalab/</code></a> · <a href="https://quantalab.alphaonelabs.com">quantalab.alphaonelabs.com</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://voxbridge.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/voxbridge.jpg?v=2" alt="VoxBridge screenshot" width="100%"></a>
+      <a href="https://botlab.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/botlab.jpg?v=2" alt="BotLab" width="100%"></a>
+      <h3><a href="https://botlab.alphaonelabs.com">BotLab</a></h3>
+      A robotics playground: build, configure and test robots with real-time physics, in 2D and 3D.<br>
+      <sub><a href="https://github.com/alphaonelabs/website/tree/main/botlab"><code>botlab/</code></a> · <a href="https://botlab.alphaonelabs.com">botlab.alphaonelabs.com</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://earthmind.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/earthmind.jpg?v=2" alt="EarthMind" width="100%"></a>
+      <h3><a href="https://earthmind.alphaonelabs.com">EarthMind</a></h3>
+      Environmental monitoring with live maps, anomaly alerts and AI summaries of sensor data.<br>
+      <sub><a href="https://github.com/alphaonelabs/website/tree/main/earthmind"><code>earthmind/</code></a> · <a href="https://earthmind.alphaonelabs.com">earthmind.alphaonelabs.com</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://voxbridge.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/voxbridge.jpg?v=2" alt="VoxBridge" width="100%"></a>
       <h3><a href="https://voxbridge.alphaonelabs.com">VoxBridge</a></h3>
       AI accessibility tools: live captioning, speech-to-sign, sign-to-speech and scene description.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/voxbridge"><code>voxbridge/</code></a> · <a href="https://voxbridge.alphaonelabs.com">voxbridge.alphaonelabs.com</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://mockuper.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/mockuper.jpg?v=2" alt="Mockuper screenshot" width="100%"></a>
+      <a href="https://mockuper.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/mockuper.jpg?v=2" alt="Mockuper" width="100%"></a>
       <h3><a href="https://mockuper.alphaonelabs.com">Mockuper</a></h3>
-      A wireframe studio for quick, clean mockups, with pages, components and versions.<br>
+      A wireframe studio for quick, clean mockups, with pages, components and exports.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/mockuper"><code>mockuper/</code></a> · <a href="https://mockuper.alphaonelabs.com">mockuper.alphaonelabs.com</a></sub>
     </td>
   </tr>
@@ -73,9 +87,8 @@
 
 <p align="center">
   <b>Also live:</b>
-  <a href="https://virtual.alphaonelabs.com">🌍 Virtual World</a> ·
-  <a href="https://earthmind.alphaonelabs.com">🌱 EarthMind</a> ·
-  <a href="https://pmoss.alphaonelabs.com">📋 PMOSS</a>
+  <a href="https://pmoss.alphaonelabs.com">📋 PMOSS</a> ·
+  <a href="https://design.alphaonelabs.com">🎨 Design system</a>, the A1 mark, colors, components and maker art every site is built on
 </p>
 
 <br>
