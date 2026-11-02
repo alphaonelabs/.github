@@ -25,7 +25,7 @@ Ten sites, one design system, one repo. Every site follows your light or dark se
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://learn.alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/learn-dark.jpg?v=5"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/learn-light.jpg?v=5" alt="Learn" width="100%"></picture></a>
+      <a href="https://learn.alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/learn-dark.jpg?v=6"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/learn-light.jpg?v=6" alt="Learn" width="100%"></picture></a>
       <h3><a href="https://learn.alphaonelabs.com">LEARN</a></h3>
       Our learning platform. Browse activities, join live virtual classrooms, take quizzes and earn certificates.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/learn"><code>learn/</code></a> · <a href="https://learn.alphaonelabs.com">learn.alphaonelabs.com</a></sub>
