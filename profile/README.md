@@ -1,137 +1,149 @@
 <div align="center">
 
-<img alt="Alpha One Labs: open-source education for everyone" src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/banner.webp?v=4" width="100%">
+<a href="https://alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/banner-dark.webp?v=5"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/banner-light.webp?v=5" alt="Alpha One Labs. Learn. Share. Explore." width="100%"></picture></a>
 
 <br>
 
-### We build free, open-source tools that make science and technology hands-on.
+<h3>Free, open-source tools that make science and technology hands-on.</h3>
 
-<sub>Interactive labs · AI tutors · live classrooms · a learning platform anyone can join</sub>
+<sub>EDUCATION &nbsp;/&nbsp; ACTIVITIES &nbsp;/&nbsp; COMMUNITY</sub>
 
-<br>
+<br><br>
 
-[**alphaonelabs.com**](https://alphaonelabs.com) &nbsp;·&nbsp; [**Start learning**](https://learn.alphaonelabs.com) &nbsp;·&nbsp; [**GSoC 2027 ideas**](https://gsoc.alphaonelabs.com/ideas) &nbsp;·&nbsp; [**Contribute**](https://github.com/alphaonelabs/website/blob/main/CONTRIBUTING.md) &nbsp;·&nbsp; [**Discussions**](https://github.com/orgs/alphaonelabs/discussions)
+[![Start learning](https://img.shields.io/badge/Start_learning-↗-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=bookstack&logoColor=D4AF37)](https://learn.alphaonelabs.com) [![GSoC 2027](https://img.shields.io/badge/GSoC-2027-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=google&logoColor=D4AF37)](https://gsoc.alphaonelabs.com) [![Monorepo](https://img.shields.io/badge/one_repo-alphaonelabs%2Fwebsite-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/alphaonelabs/website) [![Good first issues](https://img.shields.io/github/issues/alphaonelabs/website/good%20first%20issue?label=good_first_issues&color=D4AF37&style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/alphaonelabs/website/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 
-<br>
-
-![Live sites](https://img.shields.io/badge/live_sites-9-14B8A6?style=flat-square)
-![Projects](https://img.shields.io/badge/projects-17-0F766E?style=flat-square)
-[![Monorepo](https://img.shields.io/badge/one_repo-alphaonelabs%2Fwebsite-231F20?style=flat-square&logo=github)](https://github.com/alphaonelabs/website)
-[![GSoC](https://img.shields.io/badge/Google_Summer_of_Code-2027-4285F4?style=flat-square&logo=google&logoColor=white)](https://gsoc.alphaonelabs.com)
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-participant-F97316?style=flat-square&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com)
+**[alphaonelabs.com](https://alphaonelabs.com)** &nbsp;·&nbsp; **[Design system](https://design.alphaonelabs.com)** &nbsp;·&nbsp; **[Contribute](https://github.com/alphaonelabs/website/blob/main/CONTRIBUTING.md)** &nbsp;·&nbsp; **[Discussions](https://github.com/orgs/alphaonelabs/discussions)**
 
 </div>
 
-<br>
+<p align="center"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/brand/pcb-divider.svg?v=5" alt="" width="380"></p>
 
-## 🌐 Live sites
+## LIVE SITES
+
+Ten sites, one design system, one repo. Every site follows your light or dark setting.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://learn.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/learn.jpg?v=2" alt="Learn" width="100%"></a>
-      <h3><a href="https://learn.alphaonelabs.com">Learn</a></h3>
-      Our learning platform: browse activities, join live virtual classrooms, take quizzes and earn certificates.<br>
+      <a href="https://learn.alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/learn-dark.jpg?v=5"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/learn-light.jpg?v=5" alt="Learn" width="100%"></picture></a>
+      <h3><a href="https://learn.alphaonelabs.com">LEARN</a></h3>
+      Our learning platform. Browse activities, join live virtual classrooms, take quizzes and earn certificates.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/learn"><code>learn/</code></a> · <a href="https://learn.alphaonelabs.com">learn.alphaonelabs.com</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://gsoc.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/gsoc.jpg?v=2" alt="GSoC 2027" width="100%"></a>
-      <h3><a href="https://gsoc.alphaonelabs.com">GSoC 2027</a></h3>
-      Google Summer of Code with us: ten project ideas, how to start, and the season leaderboards.<br>
+      <a href="https://gsoc.alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/gsoc-dark.jpg?v=5"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/gsoc-light.jpg?v=5" alt="GSoC 2027" width="100%"></picture></a>
+      <h3><a href="https://gsoc.alphaonelabs.com">GSOC 2027</a></h3>
+      Google Summer of Code with us: project ideas, how to start, and the season leaderboards.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/gsoc"><code>gsoc/</code></a> · <a href="https://gsoc.alphaonelabs.com">gsoc.alphaonelabs.com</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://virtual.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/virtual.gif?v=2" alt="Virtual World" width="100%"></a>
-      <h3><a href="https://virtual.alphaonelabs.com">Virtual World</a></h3>
-      A 3D world built with three.js. Walk up to a portal and step into a live classroom. Explore as a guest, no sign-in needed.<br>
+      <a href="https://virtual.alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/virtual-dark.jpg?v=5"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/virtual-light.jpg?v=5" alt="Virtual Campus" width="100%"></picture></a>
+      <h3><a href="https://virtual.alphaonelabs.com">VIRTUAL CAMPUS</a></h3>
+      A 3D campus that mirrors learn. Walk into a building and step into a real class. Explore as a guest.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/virtual"><code>virtual/</code></a> · <a href="https://virtual.alphaonelabs.com">virtual.alphaonelabs.com</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://quantalab.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/quantalab.jpg?v=2" alt="QuantaLab" width="100%"></a>
-      <h3><a href="https://quantalab.alphaonelabs.com">QuantaLab</a></h3>
+      <a href="https://quantalab.alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/quantalab-dark.jpg?v=5"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/quantalab-light.jpg?v=5" alt="QuantaLab" width="100%"></picture></a>
+      <h3><a href="https://quantalab.alphaonelabs.com">QUANTALAB</a></h3>
       A virtual science lab for physics, chemistry and biology, with an AI mentor that explains what you see.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/quantalab"><code>quantalab/</code></a> · <a href="https://quantalab.alphaonelabs.com">quantalab.alphaonelabs.com</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://botlab.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/botlab.jpg?v=2" alt="BotLab" width="100%"></a>
-      <h3><a href="https://botlab.alphaonelabs.com">BotLab</a></h3>
+      <a href="https://botlab.alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/botlab-dark.jpg?v=5"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/botlab-light.jpg?v=5" alt="BotLab" width="100%"></picture></a>
+      <h3><a href="https://botlab.alphaonelabs.com">BOTLAB</a></h3>
       A robotics playground: build, configure and test robots with real-time physics, in 2D and 3D.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/botlab"><code>botlab/</code></a> · <a href="https://botlab.alphaonelabs.com">botlab.alphaonelabs.com</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://earthmind.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/earthmind.jpg?v=2" alt="EarthMind" width="100%"></a>
-      <h3><a href="https://earthmind.alphaonelabs.com">EarthMind</a></h3>
-      Environmental monitoring with live maps, anomaly alerts and AI summaries of sensor data.<br>
+      <a href="https://earthmind.alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/earthmind-dark.jpg?v=5"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/earthmind-light.jpg?v=5" alt="EarthMind" width="100%"></picture></a>
+      <h3><a href="https://earthmind.alphaonelabs.com">EARTHMIND</a></h3>
+      Environmental monitoring with live OpenStreetMap maps, anomaly alerts and AI summaries.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/earthmind"><code>earthmind/</code></a> · <a href="https://earthmind.alphaonelabs.com">earthmind.alphaonelabs.com</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://voxbridge.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/voxbridge.jpg?v=2" alt="VoxBridge" width="100%"></a>
-      <h3><a href="https://voxbridge.alphaonelabs.com">VoxBridge</a></h3>
+      <a href="https://voxbridge.alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/voxbridge-dark.jpg?v=5"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/voxbridge-light.jpg?v=5" alt="VoxBridge" width="100%"></picture></a>
+      <h3><a href="https://voxbridge.alphaonelabs.com">VOXBRIDGE</a></h3>
       AI accessibility tools: live captioning, speech-to-sign, sign-to-speech and scene description.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/voxbridge"><code>voxbridge/</code></a> · <a href="https://voxbridge.alphaonelabs.com">voxbridge.alphaonelabs.com</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://mockuper.alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/mockuper.jpg?v=2" alt="Mockuper" width="100%"></a>
-      <h3><a href="https://mockuper.alphaonelabs.com">Mockuper</a></h3>
+      <a href="https://mockuper.alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/mockuper-dark.jpg?v=5"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/mockuper-light.jpg?v=5" alt="Mockuper" width="100%"></picture></a>
+      <h3><a href="https://mockuper.alphaonelabs.com">MOCKUPER</a></h3>
       A wireframe studio for quick, clean mockups, with pages, components and exports.<br>
       <sub><a href="https://github.com/alphaonelabs/website/tree/main/mockuper"><code>mockuper/</code></a> · <a href="https://mockuper.alphaonelabs.com">mockuper.alphaonelabs.com</a></sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://pmoss.alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/pmoss-dark.jpg?v=5"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/pmoss-light.jpg?v=5" alt="PMOSS" width="100%"></picture></a>
+      <h3><a href="https://pmoss.alphaonelabs.com">PMOSS</a></h3>
+      Open-source project management on top of GitHub Issues.<br>
+      <sub><a href="https://github.com/alphaonelabs/website/tree/main/pmoss"><code>pmoss/</code></a> · <a href="https://pmoss.alphaonelabs.com">pmoss.alphaonelabs.com</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://design.alphaonelabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/design-dark.jpg?v=5"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/sites/design-light.jpg?v=5" alt="Design System" width="100%"></picture></a>
+      <h3><a href="https://design.alphaonelabs.com">DESIGN SYSTEM</a></h3>
+      The A1 mark, tokens, components and circuit art every site is built on. Light and dark.<br>
+      <sub><a href="https://github.com/alphaonelabs/website/tree/main/design"><code>design/</code></a> · <a href="https://design.alphaonelabs.com">design.alphaonelabs.com</a></sub>
+    </td>
+  </tr>
 </table>
 
-<p align="center">
-  <b>Also live:</b>
-  <a href="https://pmoss.alphaonelabs.com">📋 PMOSS</a> ·
-  <a href="https://design.alphaonelabs.com">🎨 Design system</a>, the A1 mark, colors, components and maker art every site is built on
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/brand/pcb-divider.svg?v=5" alt="" width="380"></p>
 
-<br>
-
-## ☀️ Google Summer of Code 2027
+## GOOGLE SUMMER OF CODE 2027
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <b>🎥 Live classrooms</b><br>
+      <img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/brand/pcb-chip-icon.svg?v=5" width="28" alt=""><br>
+      <b>LIVE CLASSROOMS</b><br>
       <sub>Real audio, video and captions in learn's virtual classroom, built on Cloudflare Realtime and VoxBridge.</sub>
     </td>
     <td valign="top" width="33%">
-      <b>🧠 Course-grounded AI tutor</b><br>
+      <img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/brand/pcb-chip-icon.svg?v=5" width="28" alt=""><br>
+      <b>COURSE-GROUNDED AI TUTOR</b><br>
       <sub>Answers only from a course's own materials, cites its sources, and follows the teacher's rules.</sub>
     </td>
     <td valign="top" width="33%">
-      <b>📴 Offline-first learning</b><br>
+      <img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/brand/pcb-chip-icon.svg?v=5" width="28" alt=""><br>
+      <b>OFFLINE-FIRST LEARNING</b><br>
       <sub>Download a course on Wi-Fi and finish it anywhere, with progress that syncs later.</sub>
     </td>
   </tr>
 </table>
 
-<p align="center"><a href="https://gsoc.alphaonelabs.com/ideas"><b>See all 10 project ideas →</b></a> &nbsp;·&nbsp; <sub>Priority goes to applicants with 5 merged PRs</sub></p>
+<p align="center">
+  <a href="https://gsoc.alphaonelabs.com/ideas"><b>See all 2027 project ideas ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://learn.alphaonelabs.com/activity/gsoc-2027"><b>Register on learn ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/alphaonelabs/website/issues?q=is%3Aopen+label%3Agsoc-2027"><b>GSoC 2027 issues ↗</b></a>
+  <br><sub>Priority goes to applicants with 5 merged PRs.</sub>
+</p>
 
-<br>
+<p align="center"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/brand/pcb-divider.svg?v=5" alt="" width="380"></p>
 
-## 🧪 Everything we build, in one repo
+## EVERYTHING IN ONE REPO
 
-> Every project lives in its own folder in [`alphaonelabs/website`](https://github.com/alphaonelabs/website). Push to `main` and its site deploys.
+Every project is a folder in [`alphaonelabs/website`](https://github.com/alphaonelabs/website). Merge to `main` and its site deploys to `<folder>.alphaonelabs.com`.
 
 <table>
   <tr>
-    <th align="left">🔬 Labs & worlds</th>
-    <th align="left">🧠 AI for learning</th>
-    <th align="left">🛠️ Platform & tools</th>
+    <th align="left">LABS &amp; WORLDS</th>
+    <th align="left">AI FOR LEARNING</th>
+    <th align="left">PLATFORM &amp; TOOLS</th>
   </tr>
   <tr>
     <td valign="top">
 
 [QuantaLab](https://github.com/alphaonelabs/website/tree/main/quantalab) · science experiments<br>
 [BotLab](https://github.com/alphaonelabs/website/tree/main/botlab) · robotics playground<br>
-[Virtual](https://github.com/alphaonelabs/website/tree/main/virtual) · 3D world<br>
+[Virtual](https://github.com/alphaonelabs/website/tree/main/virtual) · 3D campus<br>
 [Virtual Labs](https://github.com/alphaonelabs/website/tree/main/virtual-labs) · experiments
 
 </td>
@@ -148,7 +160,7 @@
 
 [Learn](https://github.com/alphaonelabs/website/tree/main/learn) · learning platform<br>
 [App](https://github.com/alphaonelabs/website/tree/main/app) · Flutter app<br>
-[Design System](https://github.com/alphaonelabs/website/tree/main/design-system) · UI & brand<br>
+[Design System](https://github.com/alphaonelabs/website/tree/main/design-system) · brand &amp; UI<br>
 [Mockuper](https://github.com/alphaonelabs/website/tree/main/mockuper) · wireframes<br>
 [PMOSS](https://github.com/alphaonelabs/website/tree/main/pmoss) · project management
 
@@ -161,20 +173,20 @@ git clone https://github.com/alphaonelabs/website.git
 cd website/learn        # or any project folder
 ```
 
-<br>
+<p align="center"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/brand/pcb-divider.svg?v=5" alt="" width="380"></p>
 
-## 🤝 Get involved
+## GET INVOLVED
 
 <table>
   <tr>
-    <td align="center" width="25%">🌱<br><b>New here?</b><br><a href="https://github.com/alphaonelabs/website/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22">Good first issues</a></td>
-    <td align="center" width="25%">🐛<br><b>Found a bug?</b><br><a href="https://github.com/alphaonelabs/website/issues/new/choose">Open an issue</a></td>
-    <td align="center" width="25%">💡<br><b>Have an idea?</b><br><a href="https://github.com/orgs/alphaonelabs/discussions">Start a discussion</a></td>
-    <td align="center" width="25%">🔧<br><b>Ready to code?</b><br><a href="https://github.com/alphaonelabs/website/blob/main/CONTRIBUTING.md">Contributing guide</a></td>
+    <td align="center" width="25%"><b>NEW HERE?</b><br><sub><a href="https://github.com/alphaonelabs/website/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22">Good first issues ↗</a></sub></td>
+    <td align="center" width="25%"><b>FOUND A BUG?</b><br><sub><a href="https://github.com/alphaonelabs/website/issues/new/choose">Open an issue ↗</a></sub></td>
+    <td align="center" width="25%"><b>HAVE AN IDEA?</b><br><sub><a href="https://github.com/orgs/alphaonelabs/discussions">Start a discussion ↗</a></sub></td>
+    <td align="center" width="25%"><b>READY TO CODE?</b><br><sub><a href="https://github.com/alphaonelabs/website/blob/main/CONTRIBUTING.md">Contributing guide ↗</a></sub></td>
   </tr>
 </table>
 
-### 💜 Built by our contributors
+### BUILT BY OUR CONTRIBUTORS
 
 <!-- CONTRIBUTORS_START -->
 
@@ -182,17 +194,17 @@ cd website/learn        # or any project folder
 
 <!-- CONTRIBUTORS_END -->
 
-<sub><a href="https://github.com/alphaonelabs/website/graphs/contributors">See everyone on GitHub →</a></sub>
+<sub><a href="https://github.com/alphaonelabs/website/graphs/contributors">See everyone on GitHub ↗</a></sub>
 
-<br>
+<p align="center"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/brand/pcb-divider.svg?v=5" alt="" width="380"></p>
 
-## 📊 At a glance
+## AT A GLANCE
 
 <div align="center">
 
 <!-- STATS_START -->
 
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-66-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-180-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-0-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-11-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-2-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-66-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-180-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-0-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-11-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-2-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/orgs/alphaonelabs/repositories)
 
 <!-- STATS_END -->
 
@@ -203,7 +215,7 @@ cd website/learn        # or any project folder
 </div>
 
 <details>
-<summary><b>📚 Repositories</b> (updated daily)</summary>
+<summary><b>Repositories</b> (updated daily)</summary>
 
 <!-- REPOS_START -->
 
@@ -219,7 +231,7 @@ cd website/learn        # or any project folder
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/logo.svg?v=2" alt="Alpha One Labs logo" width="56">
+  <a href="https://alphaonelabs.com"><img src="https://raw.githubusercontent.com/alphaonelabs/.github/main/profile/assets/logo.svg?v=5" alt="Alpha One Labs" width="56"></a>
   <br>
-  <sub>Made with ❤️ by the Alpha One Labs community · MIT licensed · ⭐ <a href="https://github.com/alphaonelabs/website">Star the monorepo</a> to follow along</sub>
+  <sub><b>LEARN. SHARE. EXPLORE.</b> &nbsp;·&nbsp; Built by the Alpha One Labs community &nbsp;·&nbsp; MIT licensed &nbsp;·&nbsp; <a href="https://github.com/alphaonelabs/website">Star the monorepo ↗</a></sub>
 </div>

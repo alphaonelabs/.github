@@ -142,26 +142,26 @@ def build_contributors_block(people):
 def build_stats_block(stats):
     stars_badge = (
         f"[![Total Stars](https://img.shields.io/badge/Total%20Stars-{stats['stars']}"
-        f"-F1C40F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaonelabs)"
+        f"-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/alphaonelabs)"
     )
     forks_badge = (
         f"[![Total Forks](https://img.shields.io/badge/Total%20Forks-{stats['forks']}"
-        f"-27AE60?style=for-the-badge&logo=github&logoColor=white)]"
+        f"-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)]"
         f"(https://github.com/orgs/alphaonelabs/repositories)"
     )
     prs_badge = (
         f"[![Open PRs](https://img.shields.io/badge/Open%20PRs-{stats['prs']}"
-        f"-3498DB?style=for-the-badge&logo=github&logoColor=white)]"
+        f"-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)]"
         f"(https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs)"
     )
     issues_badge = (
         f"[![Open Issues](https://img.shields.io/badge/Open%20Issues-{stats['issues']}"
-        f"-E74C3C?style=for-the-badge&logo=github&logoColor=white)]"
+        f"-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)]"
         f"(https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs)"
     )
     repos_badge = (
         f"[![Public Repos](https://img.shields.io/badge/Public%20Repos-{stats['repos']}"
-        f"-9B59B6?style=for-the-badge&logo=github&logoColor=white)]"
+        f"-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)]"
         f"(https://github.com/orgs/alphaonelabs/repositories)"
     )
     lines = [
@@ -205,7 +205,7 @@ def build_repos_table(repos):
 def build_projects_badge(repo_count):
     badge = (
         f"[![Projects](https://img.shields.io/badge/Projects-{repo_count}"
-        f"-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/alphaonelabs/repositories)"
+        f"-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/orgs/alphaonelabs/repositories)"
     )
     return f"{PROJECTS_BADGE_START}\n{badge}\n{PROJECTS_BADGE_END}"
 
@@ -224,9 +224,9 @@ def update_readme(stats):
         # STATS markers were added.  Can be removed once all environments have
         # been updated to include the markers.
         legacy = (
-            "![Repos](https://img.shields.io/badge/Public%20Repositories-7-blue?style=flat-square)\n"
-            "![Contributors](https://img.shields.io/badge/Contributors-Growing-brightgreen?style=flat-square)\n"
-            "![Open Source](https://img.shields.io/badge/License-Open%20Source-orange?style=flat-square)"
+            "![Repos](https://img.shields.io/badge/Public%20Repositories-7-D4AF37?labelColor=0F0F0F&style=flat-square)\n"
+            "![Contributors](https://img.shields.io/badge/Contributors-Growing-D4AF37?labelColor=0F0F0F&style=flat-square)\n"
+            "![Open Source](https://img.shields.io/badge/License-Open%20Source-D4AF37?labelColor=0F0F0F&style=flat-square)"
         )
         content = content.replace(legacy, stats_block)
 
