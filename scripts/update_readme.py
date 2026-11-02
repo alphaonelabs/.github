@@ -15,6 +15,10 @@ REPOS_START = "<!-- REPOS_START -->"
 REPOS_END = "<!-- REPOS_END -->"
 PROJECTS_BADGE_START = "<!-- PROJECTS_BADGE -->"
 PROJECTS_BADGE_END = "<!-- PROJECTS_BADGE_END -->"
+CONTRIBUTORS_START = "<!-- CONTRIBUTORS_START -->"
+CONTRIBUTORS_END = "<!-- CONTRIBUTORS_END -->"
+CONTRIBUTORS_REPO = "website"
+MAX_CONTRIBUTORS = 72
 
 
 def fetch_org_data():
@@ -107,6 +111,32 @@ def fetch_org_data():
         "repos": len(repos),
         "repo_list": sorted(repos, key=lambda r: r.get("commit_count", 0), reverse=True),
     }
+
+
+def fetch_contributors():
+    """People (not bots) who have contributed to the monorepo, most active first."""
+    token = os.environ.get("GITHUB_TOKEN")
+    headers = {"Authorization": f"token {token}"} if token else {}
+    people = []
+    for page in (1, 2):
+        url = f"https://api.github.com/repos/{ORG}/{CONTRIBUTORS_REPO}/contributors?per_page=100&page={page}"
+        resp = requests.get(url, headers=headers, timeout=30)
+        resp.raise_for_status()
+        batch = resp.json()
+        if not batch:
+            break
+        people += [c for c in batch if c.get("type") == "User" and "[bot]" not in c.get("login", "")]
+    return people[:MAX_CONTRIBUTORS]
+
+
+def build_contributors_block(people):
+    """Each avatar links to the contributor's GitHub profile."""
+    cells = [
+        f'<a href="{c["html_url"]}" title="{c["login"]}">'
+        f'<img src="{c["avatar_url"]}&s=96" width="48" height="48" alt="{c["login"]}"></a>'
+        for c in people
+    ]
+    return "\n".join([CONTRIBUTORS_START, "", " ".join(cells), "", CONTRIBUTORS_END])
 
 
 def build_stats_block(stats):
@@ -211,6 +241,12 @@ def update_readme(stats):
     if PROJECTS_BADGE_START in content:
         pattern = re.escape(PROJECTS_BADGE_START) + r".*?" + re.escape(PROJECTS_BADGE_END)
         content = re.sub(pattern, projects_badge, content, flags=re.DOTALL)
+
+    # Update the contributor wall (each avatar links to a profile)
+    if CONTRIBUTORS_START in content:
+        pattern = re.escape(CONTRIBUTORS_START) + r".*?" + re.escape(CONTRIBUTORS_END)
+        block = build_contributors_block(fetch_contributors())
+        content = re.sub(pattern, lambda _: block, content, flags=re.DOTALL)
 
     with open(README_PATH, "w", encoding="utf-8") as fh:
         fh.write(content)
