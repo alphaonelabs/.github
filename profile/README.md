@@ -204,7 +204,7 @@ cd website/learn        # or any project folder
 
 <!-- STATS_START -->
 
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-67-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-190-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-49-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-52-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-2-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/orgs/alphaonelabs/repositories)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-67-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/alphaonelabs) [![Total Forks](https://img.shields.io/badge/Total%20Forks-190-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/orgs/alphaonelabs/repositories) [![Open PRs](https://img.shields.io/badge/Open%20PRs-53-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aalphaonelabs) [![Open Issues](https://img.shields.io/badge/Open%20Issues-56-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aalphaonelabs) [![Public Repos](https://img.shields.io/badge/Public%20Repos-2-D4AF37?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=D4AF37)](https://github.com/orgs/alphaonelabs/repositories)
 
 <!-- STATS_END -->
 
@@ -221,8 +221,8 @@ cd website/learn        # or any project folder
 
 | Repository | Description | Language | Stars | Forks | Open PRs | Open Issues | Commits |
 |---|---|---|---|---|---|---|---|
-| [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 67 | 🍴 190 | 🔀 49 | 🐛 52 | 💾 1483 |
-| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 299 |
+| [website](https://github.com/alphaonelabs/website) | Alpha One Labs Educational Website | HTML | ⭐ 67 | 🍴 190 | 🔀 53 | 🐛 56 | 💾 1483 |
+| [.github](https://github.com/alphaonelabs/.github) | Github Repo | Python | ⭐ 0 | 🍴 0 | 🔀 0 | 🐛 0 | 💾 300 |
 
 <!-- REPOS_END -->
 
